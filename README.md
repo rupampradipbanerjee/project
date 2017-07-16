@@ -1,0 +1,2 @@
+# project
+angularjs 2
